@@ -1,6 +1,5 @@
-# Exercise-14 Healthcare Automation Project
+ Healthcare Automation Project
 
-### Reg No : 212221040020
 
 ## AIM: 
 To develop an automated system for booking patient appointments and sending email confirmations. This system simplifies appointment scheduling for patients and automates confirmation communication, improving the efficiency of healthcare service.
